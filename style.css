@@ -1,0 +1,130 @@
+body{
+    text-align: center;
+    overflow: hidden;
+    background-color: #020023
+}
+
+.main-title{
+    display: block;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.subtitle{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.cards{
+    position: relative;
+    width: 1300px;
+    height: 500px;
+    margin: 5em auto;
+    border-radius: 20px;
+    background-color: transparent;
+}
+
+.card{
+    position: absolute;
+    width: 300px;
+    height: 10px;
+    border-radius: 5px;
+    color: white;
+   
+}
+
+.card-left{
+    left: 200px;
+    top: 10px;
+}
+
+.card-top{
+    bottom: 2px;
+    left: 550px;
+}
+
+.card-bottom{
+    top: 230px;
+    left: 550px;
+}
+
+.card-right{
+    right: auto;
+    top: 230px;
+}
+
+.benzema{
+    position: absolute;
+    right: 2em;
+    width: 40px;
+    top: 140px;
+}
+
+.messi{
+    position: absolute;
+    right: 2em;
+    width: 50px;
+    top: 145px;
+   
+}
+
+.lewandowski{
+    position: absolute;
+    right: 2em;
+    width: 50px;
+    top: 140px;
+}
+
+.salah{
+    position: absolute;
+    right: 2em;
+    width: 50px;
+    top: 140px;
+}
+
+
+.card-black{
+    background-color: white
+}
+
+.card-blue{
+    background-color: rgb(21, 21, 177);
+}
+
+.card-red{
+    background-color: red;
+}
+
+.card-red--wine{
+    background-color: brown;
+}
+
+.card-title{
+    text-align: left;
+
+}
+
+.card-text{
+    text-align: left;
+
+}
+
+.goals{
+    position: relative;
+    text-align: left;
+}
+
+.copa{
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    top: 210px;
+    left: 245px;
+    
+}
+
+.pie{
+   color: white;
+}
